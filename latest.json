@@ -1,1 +1,1 @@
-{"version":"1.10.0","exe_url":"https://github.com/tianqiang-Music/tianqiang-update/releases/download/v1.10.0/-1.10.0-.exe","notes":"v1.10.0 关闭确认弹窗 + 任务栏托盘"}
+{"version":"1.11.0","exe_url":"https://github.com/tianqiang-Music/tianqiang-update/releases/download/v1.11.0/tianqiang-music-1.11.0-portable.exe","notes":"v1.11.0 修复更新下载失败（HTTP 302）"}
